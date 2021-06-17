@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+	box-sizing: border-box;
+
+}
+
+
+
+body{
+	background-image: url(../ima/background.jpg)
+	
+}
+
+main{
+	width: 90%;
+	max-width: 1280px;
+	height: 700px;
+	max-height: 720px;
+	background-color: #f08080;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+header{
+	width: 70%;
+	height: 80px;
+	background-color: #f08080;
+	float: left;
+
+}
+
+nav{
+	width: 30%;
+	height: 80px;
+	background-color: #f08080;
+	float: right;
+}
+
+section{
+	width: 100%;
+	height: 500px;
+	background-color: #f08080;
+	clear: both;
+	
+}
+
+footer{
+	width: 100%;
+	height: 260px;
+	background-color: #f08080;
+
+}
+
+#uno{
+	width: 100%;
+	height: 700px;
+	background-image: url(../ima/contenido.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	
+}
+
+#botones li{
+	display: inline;
+}
+
+#botones li a {
+	width: 10%;
+	font-size: 16px;
+	text-decoration: none;
+	text-align: center;
+	float: right;
+	padding: 1%;
+	margin-right: 2%;
+	color: #ffffff;
+	background-color: #cf6a87;
+	border-radius: 10px;
+	margin-bottom: 1%
+
+}
+
+#titulo {
+	font-size: 120%;
+	float: left;
+	color: #ffffff;
+	padding-left: 2%;
+	
+}
+
+#florenciamazzuquini {
+	font-size: 120%;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 17%;
+
+}
+
+#critica {
+	float: right;
+	text-align: right;
+	width: 20%;
+	font-size: 18px;
+	padding: 3%;
+	margin-right: 3%;
+	opacity: .5;
+	background-color: #ffffff;
+	border-radius: 10px;
+	margin-top: 10%
+
+}
+
+#critica {
+	background-size: 60%;
+	background-position: top;
+}
+
+.estrellas{
+	float: right;
+	width: 150px;
+	height: 50%;
+
+}
+
+#dos{
+	width: 100%;
+	height: 700px;
+	background-color: #fab1a0;
+	background-repeat: no-repeat;
+	float: left;
+	
+}
+
+form{
+	width: 300px;
+	background-color: #f5f6fa;
+	padding: 4%;
+	margin-left: 1%;
+
+}
+
+.cajitas{
+	width: 100%;
+}
+
+.cajota {
+	width: 100%;
+	height: 100px;
+}
+
+.btn{
+	width: 100%;
+	background-color: #ff7675;
+	color: #ffffff;
+	border-radius: 8px;
+}
+
+.btn:hover{
+	background-color: #d63031;
+	
+	
+}
+
+#formulario{ 
+	float: right;
+	margin-right: 2%;
+	font-size: 15px;
+
+ }
+
+.logo{
+	float: left;
+	width: 250px;
+	height: 60%;
+	padding-left: 2%;
+	padding-top: 1%;
+	margin-top: 1%;
+
+}
+
+.blackmirror{
+	float: left;
+	width: 190px;
+	height: 25%;
+	padding-left: 2%;
+
+}
+
+.redes{
+	float: right;
+	padding-right: 1%;
+	margin-top: 1%;
+	padding-bottom: 1
+}
+
+.redes1{
+	float: right;
+	padding-top: 1%;
+	margin-right: 2%;	
+}
+
+.redes2{
+	float: right;
+	padding-top: 1%;
+	margin-right: 1%;	
+}
+
+.redes3{
+	float: right;
+	padding-top: 1%;
+	margin-right: 1%;	
+}
+
+.netflixconcurso{
+	float: left;
+	margin-left: 2%;
+	width: 800px;
+	height: 67.7%;
+
+}
+
+.concursotexto{
+	margin-left: 2%;
+	padding-right: 30%;
+	width: 95%;
+	font-size: 15px;
+
+}
+
+.galeria{
+	
+	width:70%;
+	margin-left: 2%;
+	padding-top: 2%;
+	
+}
+
+.argumento{
+    float: right;
+	width: 30%;
+	padding-right: 2%;
+	padding-top: 2%;
+	font-size: 15px;
+	
+
+}
+
+
+.editable {
+  width: 18%;
+  margin: 2px auto;
+  padding-right: 2%;
+  
+  
+ 
+}
+
+.personaje img.editable {
+  float: left;
+  padding-left: 2%;
+  width: 20%;
+
+}
+
+.reset {
+  clear: both;
+}
+
+.personaje{
+	margin-right: 2%;
+	padding-top: 2%;
+
+	
+}
+
+.radio{
+	background-color: #cf6a87;
+	border-radius: 20px;
+	margin-left: 10%;
+	margin-bottom: 2%;
+	padding-bottom: 3%;
+	font-size: 15px;
+	
+
+}
